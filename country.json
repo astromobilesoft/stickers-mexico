@@ -1,0 +1,54 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.mexico",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "vivamexicoa2",
+      "name": "Viva México (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "rivieramaya",
+      "name": "Riviera Maya",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "vivamexico",
+      "name": "Viva Mexico",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dinero",
+      "name": "Pack Dinero",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack1",
+      "name": "Pack 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack2",
+      "name": "Pack 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack4",
+      "name": "Pack 4",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack5",
+      "name": "Pack 5",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    }
+  ]
+}
