@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pesoplumaa1",
+      "name": "Peso Pluma (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pesoplumaa2",
+      "name": "Peso Pluma (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pesoplumaflork",
+      "name": "Peso Pluma Flork",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
       "identifier": "emojisfrases1",
       "name": "Emojis Frases (1)",
       "animated_sticker_pack": true,
