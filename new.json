@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "puromexico1",
+      "name": "Puro México (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "orgullomexicano1",
+      "name": "Orgullo Mexicano (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "vivamexico2",
       "name": "Viva México (3)",
       "animated_sticker_pack": false,
