@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "5septiembre",
+      "name": "Día de la Hermano",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "ilovemexico1",
+      "name": "Yo Amo México",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
       "identifier": "puromexico1",
       "name": "Puro México (1)",
       "animated_sticker_pack": false,
