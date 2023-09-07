@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "vivamexico6",
+      "name": "Viva México (7)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "frasesmex12",
+      "name": "Frases (12)",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
       "identifier": "5septiembre",
       "name": "Día de los Hermanos",
       "animated_sticker_pack": false,
