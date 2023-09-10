@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "vivamexicoa7",
+      "name": "Viva México (7)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "vivamexicoa8",
+      "name": "Viva México (8)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "vivamexicoa9",
+      "name": "Viva México (9)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "vivamexicoa10",
+      "name": "Viva México (10)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "vivamexicoa3",
       "name": "Viva México (3)",
       "animated_sticker_pack": true,
