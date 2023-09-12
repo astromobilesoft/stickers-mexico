@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "frases8",
+      "name": "Frases (8)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frases9",
+      "name": "Frases (9)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "vivamexicoa7",
       "name": "Viva México (7)",
       "animated_sticker_pack": true,
