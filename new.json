@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "2023americavschivas1",
+      "name": "América vs Chivas (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "spoiledrabbit1",
+      "name": "Frases Conejo (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "spoiledrabbit2",
+      "name": "Frases Conejo (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "vivamexico7",
       "name": "Viva Mexico (7)",
       "animated_sticker_pack": false,
