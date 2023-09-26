@@ -3,6 +3,36 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "turismo4",
+      "name": "Turismo (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "turismo5",
+      "name": "Turismo (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "turismo6",
+      "name": "Turismo (3)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "turismo7",
+      "name": "Turismo (4)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "turismo8",
+      "name": "Turismo (5)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
       "identifier": "20septiembre",
       "name": "Día del Jubilado (1)",
       "animated_sticker_pack": false,
