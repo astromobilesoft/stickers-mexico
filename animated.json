@@ -1,630 +1,660 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.mexico",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "20septiembrea1",
-      "name": "Día del Jubilado (2)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "20septiembrea2",
-      "name": "Día del Jubilado (3)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "vivamexicoa7",
-      "name": "Viva México (7)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa8",
-      "name": "Viva México (8)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa9",
-      "name": "Viva México (9)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa10",
-      "name": "Viva México (10)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa3",
-      "name": "Viva México (3)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa4",
-      "name": "Viva México (4)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa5",
-      "name": "Viva México (5)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa6",
-      "name": "Viva México (6)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pesoplumaa1",
-      "name": "Peso Pluma (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "pesoplumaa2",
-      "name": "Peso Pluma (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "emojisfrases1",
-      "name": "Emojis Frases (1)",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "frasescorazon1",
-      "name": "Frases Corazon (1)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "10mayoa1",
-      "name": "Día de la Madre",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "5mayoa1",
-      "name": "5 de Mayo",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "17marzoa1",
-      "name": "San Patricio",
-      "animated_sticker_pack": true,
-      "stickers": "6"
-    },
-    {
-      "identifier": "8marzoa1",
-      "name": "Día de la Mujer (2)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "24febrero",
-      "name": "Día de la Bandera (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "24febreroa1",
-      "name": "Día de la Bandera (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa2",
-      "name": "Viva México (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "ucraniaa1",
-      "name": "Paz en Ucrania (1)",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "ucraniaa2",
-      "name": "Paz en Ucrania (2)",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "14febreroa1",
-      "name": "San Valentín",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "anonuevo23",
-      "name": "Año Nuevo 2023 (1)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "anonuevomeme23",
-      "name": "Año Nuevo 2023 (2)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "navidadcartoons",
-      "name": "Feliz Navidad (4)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "navidadpapanoel",
-      "name": "Feliz Navidad (5)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "worldcup2022MEXgol",
-      "name": "México GOL",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "worldcup2022animados",
-      "name": "Gol Animados",
-      "animated_sticker_pack": true,
-      "stickers": "6"
-    },
-    {
-      "identifier": "memesanimados1",
-      "name": "Memes Animados (1)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "canelo1a",
-      "name": "Canelo (1)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "canelo2a",
-      "name": "Canelo (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "muchasgracias1",
-      "name": "Muchas Gracias (1)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "muchasgracias2",
-      "name": "Muchas Gracias (2)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "muchasgracias3",
-      "name": "Muchas Gracias (3)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "frasesanimales1",
-      "name": "Frases Animales (1)",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "16septiembre",
-      "name": "Dia de la Indepedencia (2)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "cobrakai1",
-      "name": "Cobra Kai (1)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "cobrakai2",
-      "name": "Cobra Kai (2)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "cobrakai3",
-      "name": "Cobra Kai (3)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "cobrakai4",
-      "name": "Cobra Kai (4)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "cobrakai5",
-      "name": "Cobra Kai (5)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "cobrakai6",
-      "name": "Cobra Kai (6)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "florka1",
-      "name": "Flork (1)",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "checoperez1",
-      "name": "Checo Perez (1)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "checoperez2",
-      "name": "Checo Perez (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexico1",
-      "name": "Viva Mexico (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "taco1",
-      "name": "Taco (1)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "taco2",
-      "name": "Taco (2)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "frasesmex1",
-      "name": "Frases Mex (1)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex2",
-      "name": "Frases Mex (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex3",
-      "name": "Frases Mex (3)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex4",
-      "name": "Frases Mex (4)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex5",
-      "name": "Frases Mex (5)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex6",
-      "name": "Frases Mex (6)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex7",
-      "name": "Frases Mex (7)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex8",
-      "name": "Frases Mex (8)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex9",
-      "name": "Frases Mex (9)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "anonuevoadornos",
-      "name": "Adornos Año Nuevo",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "anonuevoelfos",
-      "name": "Elfos Año Nuevo",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "anonuevo22d",
-      "name": "Feliz Año Nuevo (4)",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "anonuevo22c",
-      "name": "Pack Feliz Año (3)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "anonuevo22",
-      "name": "Pack Feliz Año (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "christmastree",
-      "name": "Arbol de Navidad",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "eljuegodelcalamar3",
-      "name": "El Juego del Calamar 3",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "2noviembrea1",
-      "name": "Dia de los Muertos 1",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "2noviembrea2",
-      "name": "Dia de los Muertos 2",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "2noviembrea3",
-      "name": "Dia de los Muertos 3",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "eljuegodelcalamar1",
-      "name": "El Juego del Calamar 1",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "rivieramaya",
-      "name": "Riviera Maya",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "superchola",
-      "name": "Super Chola",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "frases6",
-      "name": "Frases (6)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "frases5",
-      "name": "Frases (5)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "venceraldesamor",
-      "name": "Vencer al Desamor",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "america1",
-      "name": "Club America",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "chivas1",
-      "name": "Chivas",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "cruzazul1",
-      "name": "Cruz Azul",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "monterrey1",
-      "name": "Monterrey",
-      "animated_sticker_pack": true,
-      "stickers": "22"
-    },
-    {
-      "identifier": "pachuca1",
-      "name": "Pachuca",
-      "animated_sticker_pack": true,
-      "stickers": "18"
-    },
-    {
-      "identifier": "pumas1",
-      "name": "Pumas",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "pumasgoyo1",
-      "name": "Pumas Goyo",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "mexico1",
-      "name": "Mexico (1)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "buenosdias1",
-      "name": "Buenos Dias (1)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "lacasadepapel1",
-      "name": "La Casa de Papel 1",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "lacasadepapel2",
-      "name": "La Casa de Papel 2",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "ximeponch",
-      "name": "Xime Ponch",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "felizcumple3",
-      "name": "Feliz Cumple (3)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "felizcumple4",
-      "name": "Feliz Cumple (4)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "felizcumple1",
-      "name": "Feliz Cumple (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "felizcumple2",
-      "name": "Feliz Cumple (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "taco",
-      "name": "Taco",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "emojiscovid",
-      "name": "Emojis Covid",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "dias",
-      "name": "Dias Semana",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "familiapeluche",
-      "name": "La Familia Peluche",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "emojis3d6",
-      "name": "Emojis 3d 6",
-      "animated_sticker_pack": true,
-      "stickers": "18"
-    },
-    {
-      "identifier": "emojis3d5",
-      "name": "Emojis 3d 5",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "emojis3d4",
-      "name": "Emojis 3d 4",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "emojis3d3",
-      "name": "Emojis 3d 3",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "chavodel8",
-      "name": "Pack Chavo Animados",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "emojis3d1",
-      "name": "Emojis 3d 1",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "emojis3d2",
-      "name": "Emojis 3d 2",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "buendia1",
-      "name": "Buen Dia 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "gracias1",
-      "name": "Gracias 1",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.mexico",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"halloween2",
+         "name":"Halloween 2",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"halloween3",
+         "name":"Halloween (3)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"halloween4",
+         "name":"Halloween (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"halloween5",
+         "name":"Halloween (5)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"halloween6",
+         "name":"Halloween (6)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"20septiembrea1",
+         "name":"Día del Jubilado (2)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"20septiembrea2",
+         "name":"Día del Jubilado (3)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"vivamexicoa7",
+         "name":"Viva México (7)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa8",
+         "name":"Viva México (8)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa9",
+         "name":"Viva México (9)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa10",
+         "name":"Viva México (10)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa3",
+         "name":"Viva México (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa4",
+         "name":"Viva México (4)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa5",
+         "name":"Viva México (5)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa6",
+         "name":"Viva México (6)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pesoplumaa1",
+         "name":"Peso Pluma (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"pesoplumaa2",
+         "name":"Peso Pluma (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"emojisfrases1",
+         "name":"Emojis Frases (1)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"frasescorazon1",
+         "name":"Frases Corazon (1)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"10mayoa1",
+         "name":"Día de la Madre",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"5mayoa1",
+         "name":"5 de Mayo",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"17marzoa1",
+         "name":"San Patricio",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"8marzoa1",
+         "name":"Día de la Mujer (2)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"24febrero",
+         "name":"Día de la Bandera (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"24febreroa1",
+         "name":"Día de la Bandera (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa2",
+         "name":"Viva México (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"ucraniaa1",
+         "name":"Paz en Ucrania (1)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"ucraniaa2",
+         "name":"Paz en Ucrania (2)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"14febreroa1",
+         "name":"San Valentín",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"anonuevo23",
+         "name":"Año Nuevo 2023 (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"anonuevomeme23",
+         "name":"Año Nuevo 2023 (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"navidadcartoons",
+         "name":"Feliz Navidad (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidadpapanoel",
+         "name":"Feliz Navidad (5)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022MEXgol",
+         "name":"México GOL",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022animados",
+         "name":"Gol Animados",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"memesanimados1",
+         "name":"Memes Animados (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"canelo1a",
+         "name":"Canelo (1)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"canelo2a",
+         "name":"Canelo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"muchasgracias1",
+         "name":"Muchas Gracias (1)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"muchasgracias2",
+         "name":"Muchas Gracias (2)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"muchasgracias3",
+         "name":"Muchas Gracias (3)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"frasesanimales1",
+         "name":"Frases Animales (1)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"16septiembre",
+         "name":"Dia de la Indepedencia (2)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"cobrakai1",
+         "name":"Cobra Kai (1)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"cobrakai2",
+         "name":"Cobra Kai (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"cobrakai3",
+         "name":"Cobra Kai (3)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"cobrakai4",
+         "name":"Cobra Kai (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"cobrakai5",
+         "name":"Cobra Kai (5)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"cobrakai6",
+         "name":"Cobra Kai (6)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"florka1",
+         "name":"Flork (1)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"checoperez1",
+         "name":"Checo Perez (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"checoperez2",
+         "name":"Checo Perez (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexico1",
+         "name":"Viva Mexico (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"taco1",
+         "name":"Taco (1)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"taco2",
+         "name":"Taco (2)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"frasesmex1",
+         "name":"Frases Mex (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex2",
+         "name":"Frases Mex (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex3",
+         "name":"Frases Mex (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex4",
+         "name":"Frases Mex (4)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex5",
+         "name":"Frases Mex (5)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex6",
+         "name":"Frases Mex (6)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex7",
+         "name":"Frases Mex (7)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex8",
+         "name":"Frases Mex (8)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex9",
+         "name":"Frases Mex (9)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"anonuevoadornos",
+         "name":"Adornos Año Nuevo",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"anonuevoelfos",
+         "name":"Elfos Año Nuevo",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"anonuevo22d",
+         "name":"Feliz Año Nuevo (4)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"anonuevo22c",
+         "name":"Pack Feliz Año (3)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"anonuevo22",
+         "name":"Pack Feliz Año (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"christmastree",
+         "name":"Arbol de Navidad",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"eljuegodelcalamar3",
+         "name":"El Juego del Calamar 3",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"2noviembrea1",
+         "name":"Dia de los Muertos 1",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"2noviembrea2",
+         "name":"Dia de los Muertos 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"2noviembrea3",
+         "name":"Dia de los Muertos 3",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"eljuegodelcalamar1",
+         "name":"El Juego del Calamar 1",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"rivieramaya",
+         "name":"Riviera Maya",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"superchola",
+         "name":"Super Chola",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"frases6",
+         "name":"Frases (6)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"frases5",
+         "name":"Frases (5)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"venceraldesamor",
+         "name":"Vencer al Desamor",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"america1",
+         "name":"Club America",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"chivas1",
+         "name":"Chivas",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"cruzazul1",
+         "name":"Cruz Azul",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"monterrey1",
+         "name":"Monterrey",
+         "animated_sticker_pack":true,
+         "stickers":"22"
+      },
+      {
+         "identifier":"pachuca1",
+         "name":"Pachuca",
+         "animated_sticker_pack":true,
+         "stickers":"18"
+      },
+      {
+         "identifier":"pumas1",
+         "name":"Pumas",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"pumasgoyo1",
+         "name":"Pumas Goyo",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"mexico1",
+         "name":"Mexico (1)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"buenosdias1",
+         "name":"Buenos Dias (1)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"lacasadepapel1",
+         "name":"La Casa de Papel 1",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lacasadepapel2",
+         "name":"La Casa de Papel 2",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"ximeponch",
+         "name":"Xime Ponch",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"felizcumple3",
+         "name":"Feliz Cumple (3)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"felizcumple4",
+         "name":"Feliz Cumple (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"felizcumple1",
+         "name":"Feliz Cumple (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"felizcumple2",
+         "name":"Feliz Cumple (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"taco",
+         "name":"Taco",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"emojiscovid",
+         "name":"Emojis Covid",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"dias",
+         "name":"Dias Semana",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"familiapeluche",
+         "name":"La Familia Peluche",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"emojis3d6",
+         "name":"Emojis 3d 6",
+         "animated_sticker_pack":true,
+         "stickers":"18"
+      },
+      {
+         "identifier":"emojis3d5",
+         "name":"Emojis 3d 5",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"emojis3d4",
+         "name":"Emojis 3d 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"emojis3d3",
+         "name":"Emojis 3d 3",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"chavodel8",
+         "name":"Pack Chavo Animados",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"emojis3d1",
+         "name":"Emojis 3d 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"emojis3d2",
+         "name":"Emojis 3d 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"buendia1",
+         "name":"Buen Dia 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"gracias1",
+         "name":"Gracias 1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      }
+   ]
 }
