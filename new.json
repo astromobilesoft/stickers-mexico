@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"12diciembre1",
+         "name":"Virgen de Guadalupe 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"12diciembre2",
+         "name":"Virgen de Guadalupe 2",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"felizcumple5",
          "name":"Feliz Cumple (5)",
          "animated_sticker_pack":false,
@@ -1195,18 +1207,6 @@
          "name":"Pack Feliz Año (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"12diciembre1",
-         "name":"Virgen de Guadalupe 1",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"12diciembre2",
-         "name":"Virgen de Guadalupe 2",
-         "animated_sticker_pack":false,
-         "stickers":"16"
       },
       {
          "identifier":"8diciembre",
