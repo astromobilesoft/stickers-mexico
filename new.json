@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clubes1",
+         "name":"Clubes",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"dias2",
+         "name":"Dias (2)",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"dias3",
+         "name":"Dias (3)",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
          "identifier":"12diciembre1",
          "name":"Virgen de Guadalupe 1",
          "animated_sticker_pack":false,
