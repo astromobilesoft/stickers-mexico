@@ -3,7 +3,7 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"reyesmagos1a",
+         "identifier":"reyesmagos1",
          "name":"Reyes Magos",
          "animated_sticker_pack":false,
          "stickers":"7"
@@ -378,12 +378,6 @@
          "identifier":"anonuevoadornos",
          "name":"Adornos Año Nuevo",
          "animated_sticker_pack":true,
-         "stickers":"7"
-      },
-      {
-         "identifier":"reyesmagos1",
-         "name":"Reyes Magos",
-         "animated_sticker_pack":false,
          "stickers":"7"
       },
       {
