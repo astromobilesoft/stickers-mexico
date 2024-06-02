@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"claudiasheinbaum",
+         "name":"Claudia Sheinbaum",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"xochitlgalvez",
+         "name":"Xóchitl Gálvez",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"josealvarezmaynez",
+         "name":"José Álvarez Maynez",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"voto2024a",
          "name":"Candidatos Presidenciales 2024",
          "animated_sticker_pack":false,
