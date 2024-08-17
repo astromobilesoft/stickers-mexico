@@ -1813,12 +1813,6 @@
          "name":"Pack Politicos",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },
-      {
-         "identifier":"bebidas",
-         "name":"Pack Bebidas",
-         "animated_sticker_pack":false,
-         "stickers":"29"
       }
    ]
 }

@@ -3,10 +3,10 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-         "identifier":"voto2024a",
-         "name":"Candidatos Presidenciales 2024",
-         "animated_sticker_pack":false,
-         "stickers":"13"
+      "identifier":"voto2024a",
+      "name":"Candidatos Presidenciales 2024",
+      "animated_sticker_pack":false,
+      "stickers":"13"
     },
     {
       "identifier": "vivamexicoa7",
