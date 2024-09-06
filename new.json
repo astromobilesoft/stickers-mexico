@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lacasadelosfamosos1",
+         "name":"La Casa de los Famosos",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"saludos1",
+         "name":"Saludos 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"saludos2",
+         "name":"Saludos 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"copaamerica2024team1",
          "name":"Copa America 2024 (1)",
          "animated_sticker_pack":false,
