@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"changolos1",
+         "name":"Changolos 1",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"changolos2",
+         "name":"Changolos 2",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"lacasadelosfamosos1",
          "name":"La Casa de los Famosos",
          "animated_sticker_pack":false,
