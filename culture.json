@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "wey1",
+      "name": "Wey 1",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
       "identifier": "frasesmex12",
       "name": "Frases (12)",
       "animated_sticker_pack": false,

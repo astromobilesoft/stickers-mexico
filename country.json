@@ -1,156 +1,174 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.mexico",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier":"voto2024a",
-      "name":"Candidatos Presidenciales 2024",
-      "animated_sticker_pack":false,
-      "stickers":"13"
-    },
-    {
-      "identifier": "vivamexicoa7",
-      "name": "Viva México (7)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa8",
-      "name": "Viva México (8)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa9",
-      "name": "Viva México (9)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa10",
-      "name": "Viva México (10)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa3",
-      "name": "Viva México (3)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa4",
-      "name": "Viva México (4)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa5",
-      "name": "Viva México (5)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexicoa6",
-      "name": "Viva México (6)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexico6",
-      "name": "Viva México (7)",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "ilovemexico1",
-      "name": "Yo Amo México",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "puromexico1",
-      "name": "Puro México (1)",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "orgullomexicano1",
-      "name": "Orgullo Mexicano (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexico2",
-      "name": "Viva México (3)",
-      "animated_sticker_pack": false,
-      "stickers": "7"
-    },
-    {
-      "identifier": "vivamexico3",
-      "name": "Viva México (4)",
-      "animated_sticker_pack": false,
-      "stickers": "7"
-    },
-    {
-      "identifier": "vivamexico4",
-      "name": "Viva México (5)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "vivamexico5",
-      "name": "Viva México (6)",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "vivamexicoa2",
-      "name": "Viva México (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "rivieramaya",
-      "name": "Riviera Maya",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "vivamexico",
-      "name": "Viva Mexico",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "dinero",
-      "name": "Pack Dinero",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack1",
-      "name": "Pack 1",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack2",
-      "name": "Pack 2",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack4",
-      "name": "Pack 4",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack5",
-      "name": "Pack 5",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.mexico",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"mexico2",
+         "name":"México 1",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"estadosmex1",
+         "name":"Estados México 1",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"estadosmex2",
+         "name":"Estados México 2",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"voto2024a",
+         "name":"Candidatos Presidenciales 2024",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"vivamexicoa7",
+         "name":"Viva México (7)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa8",
+         "name":"Viva México (8)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa9",
+         "name":"Viva México (9)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa10",
+         "name":"Viva México (10)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa3",
+         "name":"Viva México (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa4",
+         "name":"Viva México (4)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa5",
+         "name":"Viva México (5)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexicoa6",
+         "name":"Viva México (6)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexico6",
+         "name":"Viva México (7)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"ilovemexico1",
+         "name":"Yo Amo México",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"puromexico1",
+         "name":"Puro México (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"orgullomexicano1",
+         "name":"Orgullo Mexicano (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexico2",
+         "name":"Viva México (3)",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"vivamexico3",
+         "name":"Viva México (4)",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"vivamexico4",
+         "name":"Viva México (5)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"vivamexico5",
+         "name":"Viva México (6)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"vivamexicoa2",
+         "name":"Viva México (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"rivieramaya",
+         "name":"Riviera Maya",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"vivamexico",
+         "name":"Viva Mexico",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"dinero",
+         "name":"Pack Dinero",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack1",
+         "name":"Pack 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack2",
+         "name":"Pack 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack4",
+         "name":"Pack 4",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack5",
+         "name":"Pack 5",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      }
+   ]
 }
