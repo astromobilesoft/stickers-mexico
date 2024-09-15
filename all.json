@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2024americavschivas1",
+         "name":"América vs Chivas",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"felizviernes1",
          "name":"Feliz Viernes",
          "animated_sticker_pack":true,
