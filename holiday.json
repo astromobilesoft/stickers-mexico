@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"reyesmagosa2",
+         "name":"Reyes Magos (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"reyesmagos1",
+         "name":"Reyes Magos (1)",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
          "identifier":"anonuevo25a",
          "name":"Feliz Año 2025 (2)",
          "animated_sticker_pack":false,
@@ -301,18 +313,6 @@
          "name":"Dia de los Enamorados",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },
-      {
-         "identifier":"reyesmagosa2",
-         "name":"Reyes Magos (2)",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"reyesmagos1",
-         "name":"Reyes Magos (1)",
-         "animated_sticker_pack":false,
-         "stickers":"7"
       },
       {
          "identifier":"anonuevo24a1",
