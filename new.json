@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"17marzoa1",
+         "name":"San Patricio",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
          "identifier":"8marzo",
          "name":"Día de la Mujer (1)",
          "animated_sticker_pack":false,
@@ -571,12 +577,6 @@
          "name":"América Campeón 2024 (1)",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },
-      {
-         "identifier":"17marzoa1",
-         "name":"San Patricio",
-         "animated_sticker_pack":true,
-         "stickers":"6"
       },
       {
          "identifier":"anonuevo24a1",
