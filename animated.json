@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"5mayoa1",
+         "name":"5 de Mayo (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"5mayoa2",
+         "name":"5 de Mayo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"18"
+      },
+      {
          "identifier":"17marzoa1",
          "name":"San Patricio",
          "animated_sticker_pack":true,
@@ -253,12 +265,6 @@
          "name":"Día de la Madre",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },
-      {
-         "identifier":"5mayoa1",
-         "name":"5 de Mayo",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"vivamexicoa2",
