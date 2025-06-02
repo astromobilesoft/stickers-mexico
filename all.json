@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"championscup2025w1",
+         "name":"Cruz Azul Campeón Concacaf (1)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"championscup2025w2",
+         "name":"Cruz Azul Campeón Concacaf (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"5mayoa1",
          "name":"5 de Mayo (1)",
          "animated_sticker_pack":true,
