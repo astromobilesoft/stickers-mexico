@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"buendiaa2",
+         "name":"Buen Día 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"buendiaa3",
+         "name":"Buen Día 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"buenasnoches1",
+         "name":"Buenas Noches 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"buenasnochesa1",
+         "name":"Buenas Noches 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"diasa1",
          "name":"Días Animados 1",
          "animated_sticker_pack":true,
@@ -2089,12 +2113,6 @@
          "name":"Emojis 3d 2",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },
-      {
-         "identifier":"buendia1",
-         "name":"Buen Dia 1",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"gracias1",
