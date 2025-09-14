@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"vivamexico8",
+         "name":"Viva Mexico (8)",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
+         "identifier":"vivamexico9",
+         "name":"Viva Mexico (9)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },      
+      {
          "identifier":"2025canelovscrawford",
          "name":"Canelo vs Crawford",
          "animated_sticker_pack":true,
