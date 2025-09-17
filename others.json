@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"minions1",
+         "name":"Minions",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },    
+      {
+         "identifier":"notas1",
+         "name":"Notas",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
          "identifier":"buendia4",
          "name":"Buen Día 4",
          "animated_sticker_pack":false,
