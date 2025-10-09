@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"golamericaa1",
+         "name":"Gol América",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"golchivasa1",
+         "name":"Gol Chivas",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"golcruzazula1",
+         "name":"Gol Cruz Azul",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"golatlasa1",
+         "name":"Gol Atlas",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
          "identifier":"1octubrea1",
          "name":"Día del Café",
          "animated_sticker_pack":true,
