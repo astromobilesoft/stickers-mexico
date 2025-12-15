@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2025w1",
+         "name":"Toluca Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },      
+      {
+         "identifier":"apertura2025w2",
+         "name":"Toluca Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },            
+      {
          "identifier":"golamericaa1",
          "name":"Gol América",
          "animated_sticker_pack":true,
