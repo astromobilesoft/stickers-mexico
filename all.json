@@ -3,17 +3,197 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"navidad25",
+         "name":"Feliz Navidad (29)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad24",
+         "name":"Feliz Navidad (28)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad23",
+         "name":"Feliz Navidad (27)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"navidad22",
+         "name":"Feliz Navidad (26)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"navidad21",
+         "name":"Feliz Navidad (25)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"navidad20",
+         "name":"Feliz Navidad (24)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"navidad19",
+         "name":"Feliz Navidad (23)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"navidad18",
+         "name":"Feliz Navidad (22)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"navidad17",
+         "name":"Feliz Navidad (21)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"navidad16",
+         "name":"Feliz Navidad (20)",
+         "animated_sticker_pack":true,
+         "stickers":"21"
+      },
+      {
+         "identifier":"navidad15",
+         "name":"Feliz Navidad (19)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"navidad14",
+         "name":"Feliz Navidad (18)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"navidad13",
+         "name":"Feliz Navidad (17)",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"navidad12",
+         "name":"Feliz Navidad (16)",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"navidad11",
+         "name":"Feliz Navidad (15)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidad10",
+         "name":"Feliz Navidad (14)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad9",
+         "name":"Feliz Navidad (13)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidad8",
+         "name":"Feliz Navidad (12)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidad7",
+         "name":"Feliz Navidad (11)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"navidad6",
+         "name":"Feliz Navidad (10)",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"navidad5",
+         "name":"Feliz Navidad (9)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad4",
+         "name":"Feliz Navidad (8)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidadcartoons",
+         "name":"Feliz Navidad (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidadpapanoel",
+         "name":"Feliz Navidad (5)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad3",
+         "name":"Feliz Navidad (2)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"navidad2",
+         "name":"Feliz Navidad",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"mamanoel",
+         "name":"Mamá Noel",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"saludospapanoel",
+         "name":"Saludos Papá Noel",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"christmastree",
+         "name":"Arbol de Navidad",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad",
+         "name":"Pack Navidad",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"apertura2025w1",
          "name":"Toluca Campeón (1)",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },      
+      },
       {
          "identifier":"apertura2025w2",
          "name":"Toluca Campeón (2)",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },             
+      },
       {
          "identifier":"diamuertos",
          "name":"Día de los Muertos",
@@ -145,7 +325,7 @@
          "name":"Halloween 16",
          "animated_sticker_pack":true,
          "stickers":"8"
-      },   
+      },
       {
          "identifier":"golamericaa1",
          "name":"Gol América",
@@ -169,13 +349,13 @@
          "name":"Gol Atlas",
          "animated_sticker_pack":true,
          "stickers":"8"
-      },      
+      },
       {
          "identifier":"1octubrea1",
          "name":"Día del Café",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },      
+      },
       {
          "identifier":"chivajoje1",
          "name":"Chiva Animado (1)",
@@ -187,13 +367,13 @@
          "name":"Chiva Animado (2)",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },       
+      },
       {
          "identifier":"minions1",
          "name":"Minions",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },    
+      },
       {
          "identifier":"notas1",
          "name":"Notas",
@@ -205,7 +385,7 @@
          "name":"Viva México (19)",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },    
+      },
       {
          "identifier":"vivamexico19",
          "name":"Viva México (20)",
@@ -217,7 +397,7 @@
          "name":"Viva México (21)",
          "animated_sticker_pack":false,
          "stickers":"11"
-      },      
+      },
       {
          "identifier":"vivamexico10",
          "name":"Viva México (11)",
@@ -229,7 +409,7 @@
          "name":"Viva México (12)",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },    
+      },
       {
          "identifier":"vivamexico12",
          "name":"Viva México (13)",
@@ -265,7 +445,7 @@
          "name":"Viva México (18)",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },      
+      },
       {
          "identifier":"vivamexico8",
          "name":"Viva México (9)",
@@ -277,19 +457,19 @@
          "name":"Viva México (10)",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },        
+      },
       {
          "identifier":"2025canelovscrawford",
          "name":"Canelo vs Crawford",
          "animated_sticker_pack":true,
          "stickers":"7"
-      },      
+      },
       {
          "identifier":"2025americavschivas1",
          "name":"América vs Chivas 2025",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"buendia4",
          "name":"Buen Día 4",
@@ -301,19 +481,19 @@
          "name":"Buen Día 5",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },      
+      },
       {
          "identifier":"lmbequipos",
          "name":"Equipos LMB",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },        
+      },
       {
          "identifier":"kitligamx2025a",
          "name":"Jerseys Liga Mx 2025",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"buendiaa2",
          "name":"Buen Día 2",
@@ -349,7 +529,7 @@
          "name":"Heart Love 1",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },    
+      },
       {
          "identifier":"copadeoro2025w1",
          "name":"Copa de Oro 2025",
@@ -609,186 +789,6 @@
          "stickers":"5"
       },
       {
-         "identifier":"navidad25",
-         "name":"Feliz Navidad (29)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"navidad24",
-         "name":"Feliz Navidad (28)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"navidad23",
-         "name":"Feliz Navidad (27)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"navidad22",
-         "name":"Feliz Navidad (26)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"navidad21",
-         "name":"Feliz Navidad (25)",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
-         "identifier":"navidad20",
-         "name":"Feliz Navidad (24)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"navidad19",
-         "name":"Feliz Navidad (23)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"navidad18",
-         "name":"Feliz Navidad (22)",
-         "animated_sticker_pack":true,
-         "stickers":"11"
-      },
-      {
-         "identifier":"navidad17",
-         "name":"Feliz Navidad (21)",
-         "animated_sticker_pack":true,
-         "stickers":"11"
-      },
-      {
-         "identifier":"navidad16",
-         "name":"Feliz Navidad (20)",
-         "animated_sticker_pack":true,
-         "stickers":"21"
-      },
-      {
-         "identifier":"navidad15",
-         "name":"Feliz Navidad (19)",
-         "animated_sticker_pack":true,
-         "stickers":"14"
-      },
-      {
-         "identifier":"navidad14",
-         "name":"Feliz Navidad (18)",
-         "animated_sticker_pack":true,
-         "stickers":"14"
-      },
-      {
-         "identifier":"navidad13",
-         "name":"Feliz Navidad (17)",
-         "animated_sticker_pack":true,
-         "stickers":"20"
-      },
-      {
-         "identifier":"navidad12",
-         "name":"Feliz Navidad (16)",
-         "animated_sticker_pack":true,
-         "stickers":"20"
-      },
-      {
-         "identifier":"navidad11",
-         "name":"Feliz Navidad (15)",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"navidad10",
-         "name":"Feliz Navidad (14)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"navidad9",
-         "name":"Feliz Navidad (13)",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"navidad8",
-         "name":"Feliz Navidad (12)",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"navidad7",
-         "name":"Feliz Navidad (11)",
-         "animated_sticker_pack":true,
-         "stickers":"16"
-      },
-      {
-         "identifier":"navidad6",
-         "name":"Feliz Navidad (10)",
-         "animated_sticker_pack":false,
-         "stickers":"11"
-      },
-      {
-         "identifier":"navidad5",
-         "name":"Feliz Navidad (9)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"navidad4",
-         "name":"Feliz Navidad (8)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"navidadcartoons",
-         "name":"Feliz Navidad (4)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"navidadpapanoel",
-         "name":"Feliz Navidad (5)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"navidad3",
-         "name":"Feliz Navidad (2)",
-         "animated_sticker_pack":true,
-         "stickers":"14"
-      },
-      {
-         "identifier":"navidad2",
-         "name":"Feliz Navidad",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"mamanoel",
-         "name":"Mamá Noel",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"saludospapanoel",
-         "name":"Saludos Papá Noel",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"christmastree",
-         "name":"Arbol de Navidad",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"navidad",
-         "name":"Pack Navidad",
-         "animated_sticker_pack":false,
-         "stickers":"23"
-      },
-      {
          "identifier":"apertura2024w1",
          "name":"Club América Tricampeón",
          "animated_sticker_pack":false,
@@ -859,19 +859,19 @@
          "name":"Wey 1",
          "animated_sticker_pack":false,
          "stickers":"12"
-      },    
+      },
       {
          "identifier":"amor2",
          "name":"Amor 2",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },    
+      },
       {
          "identifier":"hola1",
          "name":"Hola 1",
          "animated_sticker_pack":false,
          "stickers":"8"
-      },  
+      },
       {
          "identifier":"mexico2",
          "name":"México 1",
