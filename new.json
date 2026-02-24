@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
      {
+        "identifier":"24febrero",
+        "name":"Día de la Bandera (1)",
+        "animated_sticker_pack":false,
+        "stickers":"15"
+     },
+     {
+        "identifier":"24febreroa1",
+        "name":"Día de la Bandera (2)",
+        "animated_sticker_pack":true,
+        "stickers":"15"
+     },     
+     {
         "identifier":"14febrero",
         "name":"Día de los Enamorados",
         "animated_sticker_pack":false,
@@ -25,7 +37,7 @@
         "name":"San Valentín (3)",
         "animated_sticker_pack":true,
         "stickers":"15"
-     },     
+     },
      {
         "identifier":"reyesmagosa2",
         "name":"Reyes Magos (2)",
@@ -979,18 +991,6 @@
          "name":"Carnaval",
          "animated_sticker_pack":true,
          "stickers":"17"
-      },
-      {
-         "identifier":"24febrero",
-         "name":"Día de la Bandera (1)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"24febreroa1",
-         "name":"Día de la Bandera (2)",
-         "animated_sticker_pack":true,
-         "stickers":"15"
       },
       {
          "identifier":"anonuevo25a",
