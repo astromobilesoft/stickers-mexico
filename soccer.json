@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026mexicod",
+         "name":"Vamos México(4)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      }, 
+      {
          "identifier":"worldcup2026mexico1",
          "name":"México Mundial 2026 (2)",
          "animated_sticker_pack":false,
