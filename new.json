@@ -45,6 +45,18 @@
          "stickers":"12"
       },
       {
+         "identifier":"16septiembref",
+         "name":"Independencia (7)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"16septiembreg",
+         "name":"Independencia (8)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },            
+      {
          "identifier":"vivamexico",
          "name":"Viva México (1)",
          "animated_sticker_pack":true,
