@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diamundialanimal1",
+         "name":"Día Mundial del animal",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"2026mexicovscolombia",
          "name":"México vs Colombia",
          "animated_sticker_pack":false,
