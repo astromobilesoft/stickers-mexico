@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"teamsligamx2627",
+         "name":"Equipos Liga Mx",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },  
+      {
+         "identifier":"teamsligaexpansion2627",
+         "name":"Equipos Liga Expansión",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },  
+      {
          "identifier":"2026mexicovscolombia",
          "name":"México vs Colombia",
          "animated_sticker_pack":false,

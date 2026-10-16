@@ -3,14 +3,26 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"teamsligamx2627",
+         "name":"Equipos Liga Mx",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },  
+      {
+         "identifier":"teamsligaexpansion2627",
+         "name":"Equipos Liga Expansión",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },        
+      {
          "identifier":"12octubre",
-         "name":"Dia de la Raza",
+         "name":"Día de la Raza (1)",
          "animated_sticker_pack":false,
          "stickers":"12"
       },
       {
          "identifier":"12octubre2",
-         "name":"Dia de la Raza(2)",
+         "name":"Día de la Raza (2)",
          "animated_sticker_pack":false,
          "stickers":"12"
       },
