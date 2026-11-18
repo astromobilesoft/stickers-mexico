@@ -3,8 +3,20 @@
    "ios_app_store_link":"",
    "sticker_packs":[ 
       {
+         "identifier": "gta6a",
+         "name": "GTA VI (1)",
+         "animated_sticker_pack": false,
+         "stickers": "20"
+      },
+      {
+         "identifier": "gta6b",
+         "name": "GTA VI (2)",
+         "animated_sticker_pack": false,
+         "stickers": "20"
+      },       
+      {
          "identifier":"diamuertos2",
-         "name":"Dia de los Muertos (2)",
+         "name":"Día de los Muertos (2)",
          "animated_sticker_pack":false,
          "stickers":"15",
          "date": "01/11"                           
