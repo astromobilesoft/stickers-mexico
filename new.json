@@ -1,7 +1,19 @@
 {
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.mexico",
    "ios_app_store_link":"",
-   "sticker_packs":[ 
+   "sticker_packs":[
+       {
+         "identifier":"diadelarevolucion2",
+         "name":"Dia de la Revolucion (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelarevolucion",
+         "name":"Dia de la Revolucion",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
       {
          "identifier": "gta6a",
          "name": "GTA VI (1)",
@@ -2419,12 +2431,6 @@
       {
          "identifier":"8diciembre",
          "name":"Dia de la Virgen",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"diadelarevolucion",
-         "name":"Dia de la Revolucion",
          "animated_sticker_pack":false,
          "stickers":"10"
       },

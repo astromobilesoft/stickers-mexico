@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelarevolucion2",
+         "name":"Dia de la Revolucion (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelarevolucion",
+         "name":"Dia de la Revolucion",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"diamuertos2",
          "name":"Dia de los Muertos (2)",
          "animated_sticker_pack":false,
@@ -1003,12 +1015,6 @@
       {
          "identifier":"8diciembre",
          "name":"Dia de la Virgen",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"diadelarevolucion",
-         "name":"Dia de la Revolucion",
          "animated_sticker_pack":false,
          "stickers":"10"
       },
